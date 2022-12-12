@@ -15,8 +15,8 @@
 
 - 📫 Studying at **BTEC FPT DA NANG CAMPUS**
 
-
-## <p align="center">Connect with me</p>
+#
+<p align="center">Connect with me</p>
 <p align="center">
   <a href="https://www.facebook.com/Nghia.PT21">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
