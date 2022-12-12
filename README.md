@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Trung Nghia</h1>
+# <p align="center">Trung Nghia</p>
+
+<p align="center">
+	<a href="https://github.com/ptnghia21">
+	<img src="https://avatars.githubusercontent.com/u/106159016?v=4" width = "200" alt="">
+	</a>
+</p>
+
 <h3 align="center">A young student studying at BTEC FPT British College</h3>
 
 - 🌱 I’m currently learning **Frontend Developer**
