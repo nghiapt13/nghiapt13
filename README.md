@@ -9,7 +9,7 @@
 #
 - 🫠 Fullname: **Pham Trung Nghia**
 
-- 🌱 I’m from **Da Nang, Viet Nam**
+- 🌱 My hometown: **Da Nang, Viet Nam**
 
 - 👨‍💻 DoB: *July 13rd,2003*
 
