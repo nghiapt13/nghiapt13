@@ -13,7 +13,7 @@
 
 - 👨‍💻 DoB: *July 13rd,2003*
 
-- 📫 Studying at **<a href="[https://www.btec.edu.vn](https://btec.fpt.edu.vn/)">BTEC FPT DA NANG CAMPUS</a>**
+- 📫 Studying at **<a href="https://btec.fpt.edu.vn/">BTEC FPT DA NANG CAMPUS</a>**
 
 
 ## <p align="center">Connect with me</p>
