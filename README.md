@@ -31,13 +31,6 @@
   </a>
 </div>
 
-<h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
-<div align="center">
-<a href="https://www.upwork.com/freelancers/~016168d191a73ccc35" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.fiverr.com/thanh_tin?up_rollout=true" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/fiverr-new3326.jpg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.freelancer.com/u/TinTran11" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.peopleperhour.com/freelancer/tin-tran-front-end-developer-zaxjymzw" target="_blank" rel="noreferrer"><img src="https://d1a29h5kxv3oc2.cloudfront.net/dist/img/pph-share.ced894418333eca244808771d4a24a87.png" width="36" height="36" alt="CSS3" /></a>
-</div>
 
 <p align="center">
   <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
@@ -45,9 +38,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,d3,redux,styledcomponents" /><br>
-    <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=react,angular,next,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,sass,tailwind,vscode,figma,git" />
 </div>
   <br/><br/><br/>
 <hr/>
@@ -68,7 +61,7 @@
   <a href="#" title="thanhtin4401">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiapt13&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="thanhtin4401">
+  <a href="#" title="nghiapt13">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nghiapt13&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
